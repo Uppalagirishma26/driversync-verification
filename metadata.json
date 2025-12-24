@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DriverSync Demo - Verification Prototype",
+  "description": "A high-fidelity prototype for a driver verification system, featuring mock data generation and UI-only photo processing for educational and presentation purposes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
